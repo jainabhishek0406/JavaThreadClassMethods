@@ -1,0 +1,30 @@
+Inside MyThread class run method...
+Thread name is Thread-1
+Thread isAlive is true
+Thread priority is 5
+Thread active count is 3
+Thread getContextClassLoader is sun.misc.Launcher$AppClassLoader@18b4aac2
+Thread getState is RUNNABLE
+Thread getClass is class java.lang.Thread
+Thread hashCode is 1508322856
+
+Inside MyThread class run method...
+Thread name is TestThread_1
+Thread isAlive is true
+Thread priority is 5
+Thread active count is 3
+Thread getContextClassLoader is sun.misc.Launcher$AppClassLoader@18b4aac2
+Thread getState is RUNNABLE
+Thread getClass is class java.lang.Thread
+Thread hashCode is 164827117
+
+Inside MyThread class run method...
+Thread name is TestThread_2
+Thread isAlive is true
+Thread priority is 6
+Thread active count is 3
+Thread getContextClassLoader is sun.misc.Launcher$AppClassLoader@18b4aac2
+Thread getState is RUNNABLE
+Thread getClass is class java.lang.Thread
+Thread hashCode is 1241219158
+
